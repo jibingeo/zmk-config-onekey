@@ -15,3 +15,5 @@
 include:
   - board: nrf52840dongle_nrf52840 
     shield: onekey
+  - board: nrf52840_mdk_usb_dongle
+    shield: onekey
